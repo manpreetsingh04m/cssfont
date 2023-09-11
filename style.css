@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+  font-family: 'Poppins', sans-serif;
+}
+#html{
+  font-variant: small-caps;
+  font-weight: 400;
+  font-style: normal;
+}
+#css{
+  font-variant: normal;
+  font-weight: 500;
+  font-style: italic;
+}
+#js{
+  font-style: oblique;
+  font-weight: 300;
+  font-variant: unset;
+}
+p{
+  font-size: 15px;
+}
